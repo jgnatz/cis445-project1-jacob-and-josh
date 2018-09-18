@@ -54,4 +54,22 @@ And the comparison and the use case can be found here.
 
 1. Compare the different related techniques/frameworks/etc.
 
+## Other possible topics
 
+1. Programming Paradigms - Object-oriented, functional, imperative, etc.
+
+  Ref: [http://cs.lmu.edu/~ray/notes/paradigms/](http://cs.lmu.edu/~ray/notes/paradigms/)
+  
+  Ref: [http://www.eecs.ucf.edu/~leavens/ComS541Fall97/hw-pages/paradigms/major.html](http://www.eecs.ucf.edu/~leavens/ComS541Fall97/hw-pages/paradigms/major.html)
+  
+  Ref: [https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/](https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)
+
+2. Social APIs: check Google, Facebook, LinkedIn, Twitter, etc.
+
+  Ref: [https://developers.facebook.com/docs/](https://developers.facebook.com/docs/)
+  
+  Ref: [https://developer.twitter.com/en/docs](https://developer.twitter.com/en/docs)
+
+  Ref: [https://developer.linkedin.com/docs](https://developer.linkedin.com/docs)
+  
+  Ref: [https://developers.google.com/apis-explorer/](https://developers.google.com/apis-explorer/)
