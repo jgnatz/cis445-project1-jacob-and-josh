@@ -32,10 +32,26 @@ And the comparison and the use case can be found here.
 
 1. A short report (5 - 10 pages) (put in **report** folder)
 
+1. Your (each member's) responsibilities in the project (put also in **report** folder)
+
 1. Sample code ((put in **code** folder)
 
 ## Rubric
 
 1. Each member of the group should contribute to the project. The grades of individuals will be based on the activities and partitipation of the project.
+
+## What to do
+
+1. Form your group (up to 3 people in a group). Due: the end of the next class meeting
+
+1. Find the topic of interest. Due: one week from the day of the project assignment. 
+
+  **Note**: each team may propose multiple different topcs of interest, and the instructor will help identify one that is suitable for the project.
+
+  **Note**: if in doubt, contact the instructor immediate. DO NOT WAIT! You only have about a month to work on this.
+  
+3. Distribute the work. Use the same example above, one person can learn Protocol Buffers, one can learn Thrift, and one can learn Avro. Use one to two weeks to grasp the fundamemtals (You are **NOT** expected to learn **EVERYTHING**.)
+
+1. Compare the different related techniques/frameworks/etc.
 
 
