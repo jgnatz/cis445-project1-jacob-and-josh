@@ -1,0 +1,4 @@
+I second Jacobs topic.
+Focus: Alternatives for configuration files
+Proposal: I'd like to focus on alternative data-formats for configuration files across a
+variety of systems.
