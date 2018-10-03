@@ -1,0 +1,3 @@
+Your project is approved. Congrats.
+
+By the way, I would recommend to study other alternatives of JSON, such as BSON and UBJSON
