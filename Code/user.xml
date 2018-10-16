@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<The_Cat_in_the_Hats_Companions>Thing 1</The_Cat_in_the_Hats_Companions>
+	<The_Cat_in_the_Hats_Companions>Thing 2</The_Cat_in_the_Hats_Companions>
+	<User>
+		<UserOID>1</UserOID>
+		<name>Joshua Moughler</name>
+		<nickname>Alex</nickname>
+		<age>21</age>
+		<born_in>Peoria, IL</born_in>
+		<favorite_pokemon>Piplup</favorite_pokemon>
+		<favorite_pokemon>Pikachu</favorite_pokemon>
+		<favorite_pokemon>Squirtle</favorite_pokemon>
+	</User>
+	<paragraph>WHAT COMES UP</paragraph>
+	<paragraph>must come down</paragraph>
+	<content>The wren 
+Earns his living
+Noiselessly </content>
+</root>

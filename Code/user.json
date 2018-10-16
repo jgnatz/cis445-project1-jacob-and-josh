@@ -1,0 +1,20 @@
+{
+  "The Cat in the Hat's Companions": [
+    "Thing 1",
+    "Thing 2"
+  ],
+  "User": {
+    "UserOID": 1,
+    "name": "Joshua Moughler",
+    "nickname": "Alex",
+    "born in": "Peoria, IL",
+    "age": 21,
+    "favorite pokemon": [
+      "Piplup",
+      "Pikachu",
+      "Squirtle"
+    ]
+  },
+  "paragraph": "WHAT COMES UP\n\nmust come down\n",
+  "content": "The wren \nEarns his living\nNoiselessly "
+}
