@@ -1,0 +1,5 @@
+Selected Topic: JSON Alternatives
+Focus: Alternatives for configuration files
+Proposal: I'd like to focus on alternative data-formats for configuration files across a
+variety of systems. The main alternative I would like to learn is YAML, and it's pros/cons
+towards JSON in certain use cases.

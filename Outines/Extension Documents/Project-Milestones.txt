@@ -1,0 +1,12 @@
+# Milestone Week 1: Create new data set represented in various templates
+    * Issue 1: Show date types with BSON
+    * Issue 2: Show commenting with YAML
+    * Issue 3: Show formatting with XML
+# Milestone Week 2: Parse data sets into Java to showcase code differences
+    * Issue 1: Parse UBJSON
+    * Issue 2: Parse XML
+    * Issue 3: Parse YAML (preserve comments?)
+# Milestone Week 3: Encode a data set from C++ and decode into Java
+    * Issue 1: Ecnode JSON
+    * Issue 2: Encode UBJSON
+    * Issue 3: Encode YAML
